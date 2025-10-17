@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:test_favbet/core/theme/fonts/fonts_provider.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
 import 'package:test_favbet/features/search/presentation/providers/search_movies_provider.dart';
-import 'package:test_favbet/shared/theme/fonts/fonts_provider.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
 import 'package:test_favbet/uikit/assets/icons/app_icons.dart';
 
 import 'reactive_field_override.dart';

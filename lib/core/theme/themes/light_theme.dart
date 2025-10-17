@@ -1,5 +1,6 @@
 import 'dart:ui';
-import 'package:test_favbet/shared/theme/colors.dart';
+import 'package:test_favbet/core/theme/colors.dart';
+
 import '../app_theme.dart';
 
 class LightTheme implements AppTheme {

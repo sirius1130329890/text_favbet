@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
-import 'package:test_favbet/shared/theme/themes/dark_theme.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
+import 'package:test_favbet/core/theme/themes/dark_theme.dart';
 
 import '../../../../core/routes/provider.dart';
 

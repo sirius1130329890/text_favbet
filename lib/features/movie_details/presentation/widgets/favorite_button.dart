@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:test_favbet/core/favorites/favorites_notifier.dart';
-import 'package:test_favbet/shared/theme/fonts/fonts_provider.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
+import 'package:test_favbet/core/theme/fonts/fonts_provider.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
 
 class FavoriteButton extends ConsumerWidget {
   const FavoriteButton(this.id, {super.key});

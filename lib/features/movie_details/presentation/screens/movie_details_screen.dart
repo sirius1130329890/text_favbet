@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
 import 'package:test_favbet/features/movie_details/presentation/components/body.dart';
 import 'package:test_favbet/features/movie_details/presentation/providers/movie_details_provider.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
 import 'package:test_favbet/uikit/components/loader/animation.dart';
 
 class MovieDetailsScreen extends ConsumerWidget {

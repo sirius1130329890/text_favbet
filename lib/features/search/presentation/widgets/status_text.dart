@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:test_favbet/shared/theme/fonts/fonts_provider.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
+import 'package:test_favbet/core/theme/fonts/fonts_provider.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
 import 'package:test_favbet/uikit/components/loader/animation.dart';
 
 class SearchStatusText extends ConsumerWidget {

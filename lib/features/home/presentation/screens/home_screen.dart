@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:test_favbet/features/home/presentation/components/body.dart';
 import 'package:test_favbet/features/home/presentation/providers/home_provider.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
 import 'package:test_favbet/uikit/components/loader/animation.dart';
 import 'package:test_favbet/uikit/layout_components/gap.dart';
 

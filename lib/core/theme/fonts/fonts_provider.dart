@@ -1,5 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
 
 import 'app_fonts.dart';
 

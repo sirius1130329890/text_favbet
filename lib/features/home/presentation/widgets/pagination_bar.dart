@@ -2,9 +2,9 @@ import 'package:assorted_layout_widgets/assorted_layout_widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:test_favbet/core/theme/fonts/fonts_provider.dart';
 import 'package:test_favbet/features/home/presentation/providers/home_provider.dart';
-import 'package:test_favbet/shared/theme/fonts/fonts_provider.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
 
 class PaginationBar extends ConsumerWidget {
   final void Function(int page) onPageSelected;

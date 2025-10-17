@@ -3,9 +3,9 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:test_favbet/core/storage/shared_preferences_storage.dart';
 import 'package:test_favbet/core/storage/storage_service.dart';
-import 'package:test_favbet/shared/theme/theme_mode_enum.dart';
-import 'package:test_favbet/shared/theme/themes/dark_theme.dart';
-import 'package:test_favbet/shared/theme/themes/light_theme.dart';
+import 'package:test_favbet/core/theme/theme_mode_enum.dart';
+import 'package:test_favbet/core/theme/themes/dark_theme.dart';
+import 'package:test_favbet/core/theme/themes/light_theme.dart';
 
 import 'app_theme.dart';
 

@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:test_favbet/core/api/entities/movie.dart';
 import 'package:test_favbet/core/routes/app_navigator.dart';
-import 'package:test_favbet/shared/theme/fonts/fonts_provider.dart';
+import 'package:test_favbet/core/theme/fonts/fonts_provider.dart';
 import 'package:test_favbet/uikit/components/icons/star.dart';
 import 'package:test_favbet/uikit/components/images/network_image.dart';
 

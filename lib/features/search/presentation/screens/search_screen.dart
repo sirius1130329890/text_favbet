@@ -4,11 +4,11 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:reactive_forms/reactive_forms.dart';
+import 'package:test_favbet/core/theme/fonts/fonts_provider.dart';
+import 'package:test_favbet/core/theme/theme_provider.dart';
 import 'package:test_favbet/features/search/presentation/widgets/result_grid.dart';
 import 'package:test_favbet/features/search/presentation/providers/search_movies_provider.dart';
 import 'package:test_favbet/features/search/presentation/widgets/status_text.dart';
-import 'package:test_favbet/shared/theme/fonts/fonts_provider.dart';
-import 'package:test_favbet/shared/theme/theme_provider.dart';
 import 'package:test_favbet/uikit/components/fields/reactive/search.dart';
 import 'package:test_favbet/uikit/layout_components/gap.dart';
 
